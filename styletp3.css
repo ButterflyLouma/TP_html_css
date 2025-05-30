@@ -6,9 +6,9 @@
 }
 #nav {
     line-height:30px; /*inter-ligne*/
-    background-color:gray; /*couleur d'arrière plan du bloc nav */
-    height:300px; /*hauteur du bloc nav*/
-    width:100px; /*largeur du bloc nav*/
+    background-color:red/*couleur d'arrière plan du bloc nav */
+    height:250px; /*hauteur du bloc nav*/
+    width:200px; /*largeur du bloc nav*/
     float:left; /*position du bloc nav par rapport à la page*/
     padding:5px;	     /* marge interne du bloc */
 }
